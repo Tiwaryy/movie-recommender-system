@@ -5,6 +5,7 @@ This project is a content-based and GNN-based movie recommender system built usi
 ## 🔍 Datasets Used
 - TMDB 5000 Movies Dataset
 - TMDB 5000 Credits Dataset
+- @info : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## 📌 Features
 - TF-IDF Vectorizer based recommendations
@@ -19,4 +20,4 @@ This project is a content-based and GNN-based movie recommender system built usi
 - PyTorch Geometric, Matplotlib
 
 ## 📂 Notebook
-See: **movie_recommender_system.ipynb**
+See: **`movie_recommender_system.ipynb`**
